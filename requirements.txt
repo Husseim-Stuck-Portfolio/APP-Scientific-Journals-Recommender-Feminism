@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 absl-py==2.4.0
 aext-assistant @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d5fxz3l2ix/croot/aext-assistant_1746560160060/work
 aext-assistant-server @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1emcn1_yt0/croot/aext-assistant-server_1746552985810/work
@@ -466,3 +467,15 @@ zict @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/zict_1728
 zipp @ file:///opt/miniconda3/conda-bld/zipp_1763977858517/work
 zope.interface @ file:///opt/miniconda3/conda-bld/zope.interface_1762336927613/work
 zstandard @ file:///opt/miniconda3/conda-bld/zstandard_1758189078532/work
+=======
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+wordcloud>=1.3.0
+st-link-analysis>=0.1.0
+joblib>=1.3.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+>>>>>>> d4be242208d60ec784d35cbc596d6882068f12b6
